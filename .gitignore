@@ -1,0 +1,21 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Never publish these
+.env
+.env.*
+*.log
+*.rar
+*.json
+*.zip
+*.7z
+*.sqlite
+*.csv
+node_modules/
+vendor/
